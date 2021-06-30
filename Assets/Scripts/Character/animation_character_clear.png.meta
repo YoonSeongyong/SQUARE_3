@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 684f96a5c08ad434d976b4d595ba7852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2357751604990600540
+    second: animation_character_clear_0
+  - first:
+      213: 3666590962478858683
+    second: animation_character_clear_1
+  - first:
+      213: 5939723093071561304
+    second: animation_character_clear_2
+  - first:
+      213: -6365039154539359441
+    second: animation_character_clear_3
+  - first:
+      213: -4556619222071838482
+    second: animation_character_clear_4
+  - first:
+      213: -4121812139904195311
+    second: animation_character_clear_5
+  - first:
+      213: -6068136189463133886
+    second: animation_character_clear_6
+  - first:
+      213: -8687286202541340945
+    second: animation_character_clear_7
+  - first:
+      213: -4010091263446404355
+    second: animation_character_clear_8
+  - first:
+      213: 731145370056687835
+    second: animation_character_clear_9
+  - first:
+      213: 2161923608620803327
+    second: animation_character_clear_10
+  - first:
+      213: -4329348057224219615
+    second: animation_character_clear_11
+  - first:
+      213: -2616786832176254286
+    second: animation_character_clear_12
+  - first:
+      213: -6209571199915358759
+    second: animation_character_clear_13
+  - first:
+      213: 5190182673256061157
+    second: animation_character_clear_14
+  - first:
+      213: 1916416168603091690
+    second: animation_character_clear_15
+  - first:
+      213: -4015046740446547981
+    second: animation_character_clear_16
+  - first:
+      213: 53216739519372373
+    second: animation_character_clear_17
+  - first:
+      213: -3449430030844649947
+    second: animation_character_clear_18
+  - first:
+      213: -2155002440786316484
+    second: animation_character_clear_19
+  - first:
+      213: -1415462971487102743
+    second: animation_character_clear_0
+  - first:
+      213: -2370652390241040895
+    second: animation_character_clear_1
+  - first:
+      213: -5227954766526974022
+    second: animation_character_clear_2
+  - first:
+      213: 7325539841043788535
+    second: animation_character_clear_3
+  - first:
+      213: 929620620438177477
+    second: animation_character_clear_4
+  - first:
+      213: -7661494244816306958
+    second: animation_character_clear_5
+  - first:
+      213: -5416121886854984925
+    second: animation_character_clear_6
+  - first:
+      213: -1796087907672985616
+    second: animation_character_clear_7
+  - first:
+      213: 6951643047569917981
+    second: animation_character_clear_8
+  - first:
+      213: 2954231855222270677
+    second: animation_character_clear_9
+  - first:
+      213: 5751790773307980157
+    second: animation_character_clear_10
+  - first:
+      213: 4339857195497884839
+    second: animation_character_clear_11
+  - first:
+      213: 710251774991796785
+    second: animation_character_clear_12
+  - first:
+      213: 6604866341216394845
+    second: animation_character_clear_13
+  - first:
+      213: -932877159059404106
+    second: animation_character_clear_14
+  - first:
+      213: -5096635129127198825
+    second: animation_character_clear_15
+  - first:
+      213: -6530153912824222356
+    second: animation_character_clear_16
+  - first:
+      213: -1920704611954467065
+    second: animation_character_clear_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_character_clear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2625
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8dac74de34b5ce0800000000000000
+      internalID: -1415462971487102743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2625
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10680c91630c91fd0800000000000000
+      internalID: -2370652390241040895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2625
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77957b6d29277b0800000000000000
+      internalID: -5227954766526974022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f26d4cab89a560800000000000000
+      internalID: 7325539841043788535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2100
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68819670da6ec00800000000000000
+      internalID: 929620620438177477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2100
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3601a397eca590800000000000000
+      internalID: -7661494244816306958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4ac9f6d116d4b0800000000000000
+      internalID: -5416121886854984925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1575
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe6c560930317e0800000000000000
+      internalID: -1796087907672985616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1575
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1808b73582397060800000000000000
+      internalID: 6951643047569917981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daaaaa583a8ff820800000000000000
+      internalID: 2954231855222270677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1050
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793469eb3772df40800000000000000
+      internalID: 5751790773307980157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1050
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac039130254a3c30800000000000000
+      internalID: 4339857195497884839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0a7de9325bd900800000000000000
+      internalID: 710251774991796785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 525
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e132971f239ab50800000000000000
+      internalID: 6604866341216394845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_14
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 525
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba403b9a21cd03f0800000000000000
+      internalID: -932877159059404106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f989a6a5d1549b0800000000000000
+      internalID: -5096635129127198825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2c715d9b3065a0800000000000000
+      internalID: -6530153912824222356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_character_clear_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 472
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fdffde4594855e0800000000000000
+      internalID: -1920704611954467065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
